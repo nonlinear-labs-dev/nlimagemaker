@@ -1,5 +1,9 @@
 # nlimagemaker
 
+Creates images that can be read and bootet by u-boot. Using this technique:
+
+https://github.com/nonlinear-labs-dev/u-boot/commit/3fde2563258ae1f488ee737168f69f2c7cf51e61
+
 ## Usage
 
 ### Arguments
